@@ -73,7 +73,7 @@ a {
     transition: background-color 300ms, color 300ms;
 }
   
-.button:hover {
+a.button:hover {
     color: var(--darktext);
     background-color: var(--robinegg);
 }
